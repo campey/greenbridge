@@ -22,6 +22,7 @@ A first experiment, with a loosely-collaborating group of planters, having:
 
 We are prototyping the use of [FarmPin](https://land.farmpin.com) plant growth graphs, originally designed for commerical farmers, to track changes in the vegetation index as we green neighbourhoods.
 
+<center>
 <a href="https://profiles.eco/greenbridge?ref=tm" rel="noopener">
-	<img class="eco-trustmark" alt=".eco profile for greenbridge.eco" src="https://trust.profiles.eco/greenbridge/eco-button.svg?color=%239F1744" width=200 height=200>
-</a>
+	<img class="eco-trustmark" alt=".eco profile for greenbridge.eco" src="https://trust.profiles.eco/greenbridge/eco-button.svg?color=%239F1744" width=100 height=100>
+</a></center>
