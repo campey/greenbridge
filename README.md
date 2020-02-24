@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to GreenBridge
 
-You can use the [editor on GitHub](https://github.com/campey/greenbridge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a community building bio-diversity and food gardens to improve the ecologies in which we live.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What we're doing
 
-### Markdown
+### Rooftop bio-diversity
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a project (originally called rooftopbox) to create modular rooftop gardens using indigenous fynbos vegetation to build biodiversity using Cape Town's (many) flat rooftops.
 
-```markdown
-Syntax highlighted code block
+Our first significant project has started at [Philippi Village](http://www.philippivillage.co.za/) where we have gotten the green-light to extend our pilot container-top garden to the whole container walk (x40).
 
-# Header 1
-## Header 2
-### Header 3
+### Greenpoint Neighbourhood Bridges
 
-- Bulleted
-- List
+A first experiment, with a loosely-collaborating group of planters, having:
+ - turned communal lawns into food-gardens, with perma-culture beds and community food-scrap collection
+ - an indie garden around a power substation
+ - verge planting projects in planning to change planting of these areas to indigineous
+ - approval to use a memorial park that is currently barren to build a planted "bridge" from the Neighbourhood connecting to the neigbouring Table Mountain national park
+ 
+### Monitoring via NDVI
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/campey/greenbridge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We are prototyping the use of [FarmPin] (https://land.farmpin.com) plant growth graphs, originally designed for commerical farmers, to track as we green neighbourhoods.
