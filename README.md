@@ -20,4 +20,4 @@ A first experiment, with a loosely-collaborating group of planters, having:
  
 ### Monitoring via NDVI
 
-We are prototyping the use of [FarmPin] (https://land.farmpin.com) plant growth graphs, originally designed for commerical farmers, to track as we green neighbourhoods.
+We are prototyping the use of [FarmPin](https://land.farmpin.com) plant growth graphs, originally designed for commerical farmers, to track as we green neighbourhoods.
